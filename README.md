@@ -15,3 +15,4 @@ adapter.addBtn(R.layout.btn_layout, new ComplexRecyclerViewAdapter.OnItemBtnClic
                 Toast.makeText(MainActivity.this, bean.toString()+"hahah", Toast.LENGTH_LONG).show();
             }
         });
+详细使用方法地址 https://blog.csdn.net/qq_35644925/article/details/82109597
